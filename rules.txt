@@ -1,0 +1,20 @@
+    ══════════════════════════════════════════════════════════════════════
+    |                        TERMS AND CONDITIONS                        |
+    ══════════════════════════════════════════════════════════════════════
+    |                                                                    |
+    | 1. Not allowed to sell this script.                                |
+    |                                                                    |
+    | 2. It is not allowed to edit any content in this script            |
+    | (Except edit from the menu)                                        |
+    |                                                                    |
+    | 3. It is not allowed to run the backup function repeatedly,        | 
+    | for example in 1 hour, you run 10 backups                          |
+    |                                                                    |
+    | 4. If the admin finds you breaking one of these rules,             |
+    | The admin has the right to terminate your script rental service    |
+    | immediately.                                                       |
+    |                                                                    |
+    |                                                 Provided By: ScVPN |
+    ══════════════════════════════════════════════════════════════════════
+    
+    
